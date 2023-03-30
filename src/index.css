@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  direction: rtl;
+}
+@layer base {
+  .py-navbar-item {
+    @apply py-4
+  }
+    .px-navbar-item {
+    @apply px-4
+  }
+}
