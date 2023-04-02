@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "پول فقط یک ابزار است. شما را به هر کجا که بخواهید می برد، اما جایگزین شما به عنوان راننده نمی شود.",
-    name: "سعید خسروی",
+    name: "النا عزیزی",
     title: "مدیر و توسعه‌دهنده",
     img: people01,
   },
@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "پول زندگی شما را آسان تر می کند. اگر خوش شانس هستید که آن را دارید، خوش شانس هستید.",
-    name: "استیو مارک",
+    name: "سعید خسروی",
     title: "طراح و عکاس",
     img: people02,
   },
@@ -126,7 +126,7 @@ export const footerLinks = [
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "پیشنهادات",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -140,14 +140,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "همکاران",
     links: [
       {
-        name: "Our Partner",
+        name: "تهران",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "همکاران شهرستان",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
